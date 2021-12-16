@@ -1,6 +1,0 @@
-requests
-colorama
-playsound
-pyyaml
-Pillow
-time
